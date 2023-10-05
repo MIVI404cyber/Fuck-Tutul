@@ -4,4 +4,4 @@ Tutul Er Mayre 365 Din Xu*i
 - rm -rf Fuck-Tutul
 - git clone https://github.com/MIVI404cyber/Fuck-Tutul
 - cd Fuck-Tutul
-- ls
+- chmod +x a;./a
